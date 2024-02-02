@@ -2,7 +2,7 @@ import cv2
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
  
-cap = cv2.VideoCapture('video face.mp4')
+cap = cv2.VideoCapture('Video path')
 
 while True:
     _, img = cap.read()
