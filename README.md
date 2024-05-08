@@ -38,3 +38,5 @@ This Python project implements face recognition functionality, allowing the prog
 4. The program will detect and recognize faces from the input source and display the results.
 5. Optionally, interact with the graphical user interface (GUI) for a more user-friendly experience.
 
+# Team Member
+- [Abhinav Kumar](https://github.com/Abhinav7982)
