@@ -2,6 +2,8 @@
 
 This Python project implements face recognition functionality, allowing the program to recognize faces from images, videos, or through the live webcam of the system. It utilizes computer vision and deep learning techniques to detect and recognize faces with high accuracy.
 
+![image](https://github.com/Archit-24/Face-Recognition/assets/155532480/7e29724d-ecd7-4818-b718-d715c8de6f85)
+
 ## Features
 
 - **Face Detection**: Detects faces in images, videos, or live webcam streams using pre-trained face detection models.
